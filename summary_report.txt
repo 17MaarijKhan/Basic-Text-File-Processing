@@ -1,0 +1,7 @@
+--- Summary Report ---
+Total feedback entries: 108
+Keyword occurrences:
+Good: 12 times
+Bad: 14 times
+Excellent: 29 times
+Poor: 14 times
